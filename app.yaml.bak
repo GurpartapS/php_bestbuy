@@ -4,5 +4,5 @@ api_version: 1
 handlers:
 - url: /.*
   script: bestbuy.html
- - url: /css
+- url: /css
   static_dir: css
